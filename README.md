@@ -2,8 +2,8 @@
 
 three main formats that Pandas access data
 
-CSV/TSV
+1. CSV/TSV
 
-pickle
+2. pickle
 
-JSON
+3. JSON
